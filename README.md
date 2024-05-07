@@ -1,6 +1,7 @@
 This is the Travel Management System for Solent Trips!
 
 Project Description
+
 This travel management system for Solent Trips will help provide a centralised platform for managing all aspects of a trip for the organisation. 
 
 User Roles / Use Case Diagram
