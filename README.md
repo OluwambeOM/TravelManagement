@@ -20,3 +20,10 @@ These include;
 [Solent Trips - Use Case Diagram]
 
 (https://github.com/OluwambeOM/TravelManagement/assets/161264432/22314df7-4c45-4923-a743-8c4eabcba2a6)
+
+
+Solent Trips - Class Diagram
+Class Diagram
+Six (6) different classes have been identified for this system as shown in the diagram below, this include; 
+[Solent Trips - Class Diagram]
+(https://github.com/OluwambeOM/TravelManagement/assets/161264432/db46ddeb-1940-49ce-a4af-3981f8d7acca)
