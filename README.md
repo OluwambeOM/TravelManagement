@@ -17,4 +17,5 @@ These include;
 4 - Administrator
 
 [Solent Trips - Use Case Diagram]
+
 (https://github.com/OluwambeOM/TravelManagement/assets/161264432/22314df7-4c45-4923-a743-8c4eabcba2a6)
