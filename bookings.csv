@@ -1,0 +1,3 @@
+booking_id,trip_id,trip_name,traveller_id,status,payment_status,total_amount
+B001,T001,Summer Beach Getaway,1,confirmed,completed,500
+B002,T002,Mountain Adventure Retreat,2,pending,not_paid,800

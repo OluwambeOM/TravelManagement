@@ -1,0 +1,5 @@
+user_id,username,password,role,email,phone_number,staff_id,staff_role
+1,johndoe,johndoe123,traveller,johndoe@example.com,123-456-7890,,
+2,sarahsmith,sarah123,traveller,sarah.smith@example.com,987-654-3210,,
+3,tripcoordinator1,coordpass123,trip_coordinator,coord1@example.com,111-222-3333,1,trip_coordinator
+4,tripmanager1,managerpass123,trip_manager,manager1@example.com,444-555-6666,2,trip_manager

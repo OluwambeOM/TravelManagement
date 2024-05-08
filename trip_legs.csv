@@ -1,0 +1,4 @@
+trip_id,leg_id,leg_name,start_location,end_location,distance,mode_of_transport
+T001,L001,Beach Day,Solent Beach,Beach Resort,10,Kayak
+T001,L002,Scuba Diving Adventure,Beach Resort,Underwater Cave,5,Boat
+T002,L001,Mountain Hiking,Mountain Peaks,Valley Base,15,Hiking
