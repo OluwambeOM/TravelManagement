@@ -25,8 +25,8 @@ These include;
 
 Solent Trips - Class Diagram
 Class Diagram
-Six (6) different classes have been identified for this system as shown in the diagram attached below.
+Five (5) different classes have been identified for this system as shown in the diagram attached below.
 
-[Solent Trips - Class Diagram]
+[Class Diagram - Solent Trips](
+https://github.com/OluwambeOM/TravelManagement/assets/161264432/a44dd740-4336-41e2-a3a0-9aeddf2951ed)
 
-(https://github.com/OluwambeOM/TravelManagement/assets/161264432/db46ddeb-1940-49ce-a4af-3981f8d7acca)
